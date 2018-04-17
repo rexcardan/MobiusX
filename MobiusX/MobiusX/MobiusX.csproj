@@ -57,11 +57,15 @@
     <Compile Include="Json\GammaCriteria.cs" />
     <Compile Include="Json\GammaSummary.cs" />
     <Compile Include="Json\Jaws.cs" />
+    <Compile Include="Json\JsonPathConverter.cs" />
     <Compile Include="Json\MachineInfo.cs" />
     <Compile Include="Json\Named.cs" />
     <Compile Include="Json\NamedDouble.cs" />
     <Compile Include="Json\NamedString.cs" />
+    <Compile Include="Json\PlanDICOM.cs" />
+    <Compile Include="Json\PlanInfo.cs" />
     <Compile Include="Json\ROI.cs" />
+    <Compile Include="Json\Settings.cs" />
     <Compile Include="Json\Volume.cs" />
     <Compile Include="MobiusClient.cs">
       <SubType>Component</SubType>

@@ -12,6 +12,6 @@ namespace MobiusX
         public List<ROI> ROIs { get; set; }
         public GammaSummary GammaSummary { get; set; }
         public List<BeamInfoItem> BeamInfos { get; set; }
-        public List<FractionGroupInfoItem> FractionGroupInfos { get; internal set; }
+        public List<FractionGroupInfoItem> FractionGroupInfos { get; set; }
     }
 }
